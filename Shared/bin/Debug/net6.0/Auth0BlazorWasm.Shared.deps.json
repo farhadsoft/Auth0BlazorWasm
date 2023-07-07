@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Auth0BlazorWasm.Shared/1.0.0": {
+        "runtime": {
+          "Auth0BlazorWasm.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Auth0BlazorWasm.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

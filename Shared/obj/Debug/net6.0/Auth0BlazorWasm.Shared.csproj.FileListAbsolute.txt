@@ -1,0 +1,12 @@
+d:\GitHub\Auth0BlazorWasm\Shared\bin\Debug\net6.0\Auth0BlazorWasm.Shared.deps.json
+d:\GitHub\Auth0BlazorWasm\Shared\bin\Debug\net6.0\Auth0BlazorWasm.Shared.dll
+d:\GitHub\Auth0BlazorWasm\Shared\bin\Debug\net6.0\Auth0BlazorWasm.Shared.pdb
+d:\GitHub\Auth0BlazorWasm\Shared\obj\Debug\net6.0\Auth0BlazorWasm.Shared.csproj.AssemblyReference.cache
+d:\GitHub\Auth0BlazorWasm\Shared\obj\Debug\net6.0\Auth0BlazorWasm.Shared.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\Auth0BlazorWasm\Shared\obj\Debug\net6.0\Auth0BlazorWasm.Shared.AssemblyInfoInputs.cache
+d:\GitHub\Auth0BlazorWasm\Shared\obj\Debug\net6.0\Auth0BlazorWasm.Shared.AssemblyInfo.cs
+d:\GitHub\Auth0BlazorWasm\Shared\obj\Debug\net6.0\Auth0BlazorWasm.Shared.csproj.CoreCompileInputs.cache
+d:\GitHub\Auth0BlazorWasm\Shared\obj\Debug\net6.0\Auth0BlazorWasm.Shared.dll
+d:\GitHub\Auth0BlazorWasm\Shared\obj\Debug\net6.0\refint\Auth0BlazorWasm.Shared.dll
+d:\GitHub\Auth0BlazorWasm\Shared\obj\Debug\net6.0\Auth0BlazorWasm.Shared.pdb
+d:\GitHub\Auth0BlazorWasm\Shared\obj\Debug\net6.0\ref\Auth0BlazorWasm.Shared.dll
